@@ -1,4 +1,4 @@
-# React movies
+# React movies Simple
 
 This project was bootstrapped with [Demo](https://webbomj.github.io/react-movies).
 
