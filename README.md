@@ -4,7 +4,7 @@
 Отработка развертки приложения на базе [Create-react-app](https://create-react-app.dev/)<br>
 Отработка базовоых возможностей, работа с хуками, состояниями, preloader, поиск<br>
 
-Использовалось Api - [fortniteapi.io][(http://www.omdbapi.com/)
+Использовалось Api - [omdbapi.com][(http://www.omdbapi.com/)
 
 ## Запуск
 -`npm start` - для запуска локального сервера<br>
